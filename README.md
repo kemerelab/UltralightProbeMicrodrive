@@ -1,5 +1,11 @@
 # UltralightProbeMicrodrive
 Ultra-light microdrive design for implanted multichannel neural recording probes. 
+Remixed from the [microdrive](https://github.com/buzsakilab/3d_print_designs/tree/master/Microdrives/Metal_recoverable) 
+designed by Mihály Vöröslakos in the Buzsaki Lab, using a shoulder-screw inspired by the Open Ephys 
+[shuttledrive](https://github.com/open-ephys/shuttle-drive) and
+[Jadhav Lab](https://gitlab.com/JMOlson/TetDrive-Jadhav-Metal) designs. **Total weight is ~0.7g.**
+
+
 Microdrive design is in the `microdrive/` directory. We have printed the microdrive
 components using our Projet MJP2500 printer. We have also obtained them from
 Shapeways. We use the brass or gold-plated brass process for the shutte part: 

@@ -9,9 +9,7 @@ designed by Mihály Vöröslakos in the Buzsaki Lab, using a shoulder-screw insp
 
 Microdrive design is in the `microdrive/` directory. We have printed the microdrive
 components using our Projet MJP2500 printer. We have also obtained them from
-Shapeways. We use the brass or gold-plated brass process for the shutte part: 
-
-<iframe width="625" height="652" frameborder="0" allowfullscreen allowtransparency src="//www.shapeways.com/fragments/product?spin=3TFFV6T2Q"></iframe>
+Shapeways. [We use the brass or gold-plated brass process for the shuttle part.](//www.shapeways.com/fragments/product?spin=3TFFV6T2Q)
 
 The other components we print using the "Fine Detail Plastic"/"Clear Ultra" option.
 Total cost for one microdrive is ~$35 without shipping and handling. If you want to

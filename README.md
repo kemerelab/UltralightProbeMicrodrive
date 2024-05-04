@@ -5,6 +5,7 @@ designed by Mihály Vöröslakos in the Buzsaki Lab, using a shoulder-screw insp
 [shuttledrive](https://github.com/open-ephys/shuttle-drive) and
 [Jadhav Lab](https://gitlab.com/JMOlson/TetDrive-Jadhav-Metal) designs. **Total weight is ~0.7g.**
 
+![Microdrive Assembly](https://github.com/ckemere/UltralightProbeMicrodrive/blob/main/microdrive/assembly.gif?raw=true)
 
 Microdrive design is in the `microdrive/` directory. We have printed the microdrive
 components using our Projet MJP2500 printer. We have also obtained them from

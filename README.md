@@ -17,6 +17,7 @@ but since their bankruptcy, we have had success with parts cast from Bronze purc
 via the [CraftCloud3d](https://craftcloud3d.com) marketplace. Bronze is listed in their
 "Precious Metals" category. The "Raw" finish was more than adequate. We ordered from a supplier
 called "3D Print India" and were quite pleased with both the price and the result. 
+![Cast Shutle](https://github.com/ckemere/UltralightProbeMicrodrive/blob/main/microdrive/components/bronze_shuttle.jpg?raw=true)
 
 If you want to print the shuttle in plastic rather than metal, we suggest using the 
 ["for plastic" STL file](https://github.com/ckemere/UltralightProbeMicrodrive/blob/main/microdrive/components/shuttle-split-for-plastic-print.STL).

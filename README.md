@@ -8,15 +8,19 @@ designed by Mihály Vöröslakos in the Buzsaki Lab, using a shoulder-screw insp
 ![Microdrive Assembly](https://github.com/ckemere/UltralightProbeMicrodrive/blob/main/microdrive/assembly.gif?raw=true)
 
 Microdrive design is in the `microdrive/` directory. We have printed the microdrive
-components using our Projet MJP2500 printer. We have also obtained them from
-Shapeways. [We use the brass or gold-plated brass process for the shuttle part.](//www.shapeways.com/fragments/product?spin=3TFFV6T2Q)
+components using our Projet MJP2500 printer. A number of options exist for MJP2500 prints.
+We have had good success with parts recevied from [CadBlu NYC](https://www.cadblu.com/). They
+are a distributor for these printers but also print-as-a-service. 
+For the shuttle part, we have had good success with lost-wax cast metals. Originally
+[Shapeways](https://www.shapeways.com/fragments/product?spin=3TFFV6T2Q) was an easy source,
+but since their bankruptcy, we have had success with parts cast from Bronze purchased
+via the [CraftCloud3d](https://craftcloud3d.com) marketplace. Bronze is listed in their
+"Precious Metals" category. The "Raw" finish was more than adequate. We ordered from a supplier
+called "3D Print India" and were quite pleased with both the price and the result. 
 
-The other components we print using the "Fine Detail Plastic"/"Clear Ultra" option.
-Total cost for one microdrive is ~$35 without shipping and handling. If you want to
-print the shuttle in plastic rather than metal, we suggest using the 
+If you want to print the shuttle in plastic rather than metal, we suggest using the 
 ["for plastic" STL file](https://github.com/ckemere/UltralightProbeMicrodrive/blob/main/microdrive/components/shuttle-split-for-plastic-print.STL).
 
-We have had the custom screws manufactured by [https://g-machining.com/](https://g-machining.com/).
-The threading is slightly different from what is obtained using the M0.8 tap available
-from McMaster-Carr, so we tap the shuttle using one of the custom screws (very slowly).
+We have had the custom screws bid on [MFG.com](https://MFG.com), and manufactured 
+by [https://g-machining.com/](https://g-machining.com/).
 _Contact us with questions, we can provide a small number of screws for testing at cost._
